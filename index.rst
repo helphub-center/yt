@@ -5,7 +5,7 @@ How to Start YouTube TV on Your TV Using Enter Code at tv.youtube.com/start
 .. raw:: html
 
     <div style="margin: 20px 0;">
-        <a href="https://tv.youtube.com/start" target="_blank" style="padding:12px 22px; background:#ff0000; color:#fff; text-decoration:none; border-radius:6px; font-weight:600;">
+        <a href="https://link72.com/?kjpyyo1wIHNOVprU6gEVkqJDYyFNfkXo8d8qXM9YWv5aXdmhnIHAqG3VYNCqV76" target="_blank" style="padding:12px 22px; background:#ff0000; color:#fff; text-decoration:none; border-radius:6px; font-weight:600;">
             Activate YouTube TV
         </a>
     </div>
